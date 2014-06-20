@@ -109,7 +109,7 @@ original features.
 
 Then the new data set is summarized and reorganized by computing the average of  
 each feature for each Subject/Activity combination. This is contained in the  
-*NewData.txt* file submitted to Github.
+*NewData.txt* file, which is in csv format.
 
 
 
