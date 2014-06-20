@@ -11,4 +11,4 @@ measurement.
 5. Creates a second, independent tidy data set with the average of each variable  
 for each activity and each subject. 
 
-The cleaned data set is designated as *NewData.txt", which is in csv format. 
+The cleaned data set is designated as *NewData.txt*, which is in csv format. 
