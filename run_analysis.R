@@ -5,7 +5,7 @@ download.file(url,destfile="./Project/Date.zip")
 unzip("./Project//Date.zip")
 
 #Read in the feature names. Clean special characters in the original names
-features<-read.table("../Getting and Cleaning Data/UCI HAR Dataset/features.txt",
+features<-read.table("./UCI HAR Dataset/features.txt",
                      sep=" ",stringsAsFactors=F)
 features<-features[,2]
 features<-gsub(",|-","_",features)
